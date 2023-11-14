@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028986096221",
+    "project_id": "projectlearn-7eef4",
+    "storage_bucket": "projectlearn-7eef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028986096221:android:6326ca415e344ee18a5bb4",
+        "android_client_info": {
+          "package_name": "com.GGTeams.MATIE"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxztC2rXVmRJ69T6V5DxyG08-2yYY_4rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

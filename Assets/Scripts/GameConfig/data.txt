@@ -1,0 +1,69 @@
+quizOptions[0].question=How many fingers does a hand have?
+quizOptions[0].optionA=3
+quizOptions[0].optionB=5
+quizOptions[0].optionC=8
+quizOptions[0].optionD=10
+quizOptions[0].answer=1
+
+quizOptions[1].question=If you have 3 apples and you add 2 more, how many apples do you have?
+quizOptions[1].optionA=3
+quizOptions[1].optionB=5
+quizOptions[1].optionC=10
+quizOptions[1].optionD=2
+quizOptions[1].answer=1
+
+quizOptions[2].question=If today is Wednesday, what day is tomorrow?
+quizOptions[2].optionA=Thursday
+quizOptions[2].optionB=Friday
+quizOptions[2].optionC=Saturday
+quizOptions[2].optionD=Sunday
+quizOptions[2].answer=0
+
+quizOptions[3].question=Count from 1 to 10. What is the last number?
+quizOptions[3].optionA=9
+quizOptions[3].optionB=10
+quizOptions[3].optionC=11
+quizOptions[3].optionD=12
+quizOptions[3].answer=1
+
+quizOptions[4].question=If you have 4 pens and you put them in a box, then take out 2, how many pens do you have left?
+quizOptions[4].optionA=1
+quizOptions[4].optionB=2
+quizOptions[4].optionC=3
+quizOptions[4].optionD=4
+quizOptions[4].answer=1
+
+quizOptions[5].question=If you have 7 marbles and you add 3 more, how many marbles do you have?
+quizOptions[5].optionA=7
+quizOptions[5].optionB=8
+quizOptions[5].optionC=10
+quizOptions[5].optionD=11
+quizOptions[5].answer=2
+
+quizOptions[6].question=If you have 2 cats and 3 dogs, how many pets do you have in total?
+quizOptions[6].optionA=3
+quizOptions[6].optionB=4
+quizOptions[6].optionC=5
+quizOptions[6].optionD=6
+quizOptions[6].answer=2
+
+quizOptions[7].question=If you have 6 books and you put them on a bookshelf, then add 4 more books, how many books do you have in total?
+quizOptions[7].optionA=8
+quizOptions[7].optionB=9
+quizOptions[7].optionC=10
+quizOptions[7].optionD=11
+quizOptions[7].answer=2
+
+quizOptions[8].question=If you have 5 balls and you give away 2, how many balls do you have left?
+quizOptions[8].optionA=2
+quizOptions[8].optionB=3
+quizOptions[8].optionC=4
+quizOptions[8].optionD=5
+quizOptions[8].answer=1
+
+quizOptions[9].question=Count from 1 to 20. What is the last number?
+quizOptions[9].optionA=19
+quizOptions[9].optionB=20
+quizOptions[9].optionC=21
+quizOptions[9].optionD=22
+quizOptions[9].answer=1
